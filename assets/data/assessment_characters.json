@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prof001-business-consultant",
+    "name": "Sarah Mitchell",
+    "greeting": "Good morning! I'm Sarah Mitchell, your business strategy consultant. I'm here to help you optimize your business operations and develop effective growth strategies. How can I assist you with your business goals today?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop&crop=face"
+  },
+  {
+    "id": "prof002-financial-advisor",
+    "name": "David Chen",
+    "greeting": "Hello, I'm David Chen, your financial advisor. I specialize in investment planning, risk management, and wealth building strategies. I'm ready to help you make informed financial decisions. What financial matters would you like to discuss?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face"
+  },
+  {
+    "id": "prof003-hr-specialist",
+    "name": "Emily Rodriguez",
+    "greeting": "Welcome! I'm Emily Rodriguez, your Human Resources specialist. I can assist you with talent acquisition, employee development, performance management, and organizational culture. How may I support your HR initiatives today?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop&crop=face"
+  },
+  {
+    "id": "prof004-tech-consultant",
+    "name": "Michael Thompson",
+    "greeting": "Greetings! I'm Michael Thompson, your technology consultant. I help organizations leverage technology for digital transformation, process automation, and system optimization. What technology challenges can I help you solve?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+  },
+  {
+    "id": "prof005-marketing-expert",
+    "name": "Jessica Adams",
+    "greeting": "Hello there! I'm Jessica Adams, your marketing strategy expert. I specialize in brand development, digital marketing, and customer engagement strategies. I'm excited to help you enhance your market presence. What marketing objectives would you like to achieve?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1594736797933-d0401ba4b60c?w=400&h=400&fit=crop&crop=face"
+  },
+  {
+    "id": "prof006-legal-advisor",
+    "name": "Robert Williams",
+    "greeting": "Good day! I'm Robert Williams, your legal advisor. I provide guidance on corporate law, compliance, contract negotiations, and risk mitigation. I'm here to ensure your business operates within legal frameworks. How can I assist you with legal matters?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1556157382-97eda2d62296?w=400&h=400&fit=crop&crop=face"
+  },
+  {
+    "id": "prof007-operations-manager",
+    "name": "Linda Foster",
+    "greeting": "Hello! I'm Linda Foster, your operations management consultant. I focus on process improvement, supply chain optimization, and operational efficiency. I'm ready to help streamline your business operations. What operational challenges are you facing?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1559548331-f9cb98648ce6?w=400&h=400&fit=crop&crop=face"
+  },
+  {
+    "id": "prof008-data-analyst",
+    "name": "James Park",
+    "greeting": "Good morning! I'm James Park, your data analytics consultant. I help organizations make data-driven decisions through advanced analytics, reporting, and business intelligence. How can I help you leverage your data for better insights?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face"
+  },
+  {
+    "id": "prof009-project-manager",
+    "name": "Rachel Green",
+    "greeting": "Welcome! I'm Rachel Green, your project management consultant. I excel in project planning, team coordination, and delivery management using agile and traditional methodologies. I'm here to ensure your projects succeed. What project challenges can I help you with?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop&crop=face"
+  },
+  {
+    "id": "prof010-sales-director",
+    "name": "Mark Johnson",
+    "greeting": "Hello! I'm Mark Johnson, your sales strategy director. I specialize in sales process optimization, team training, and revenue growth strategies. I'm committed to helping you achieve your sales targets. What sales objectives would you like to discuss?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+  },
+  {
+    "id": "prof011-customer-success",
+    "name": "Amanda Lewis",
+    "greeting": "Good day! I'm Amanda Lewis, your customer success manager. I focus on client retention, satisfaction improvement, and relationship building strategies. I'm here to help you enhance customer experiences. How can I assist with your customer success initiatives?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=400&fit=crop&crop=face"
+  },
+  {
+    "id": "prof012-innovation-consultant",
+    "name": "Dr. Alex Kumar",
+    "greeting": "Greetings! I'm Dr. Alex Kumar, your innovation consultant. I help organizations foster innovation, develop new products, and implement creative solutions. I'm passionate about driving transformation through innovation. What innovative challenges are you looking to address?",
+    "profile_pic_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face"
+  }
+]
